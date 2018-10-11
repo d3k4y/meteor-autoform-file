@@ -1,8 +1,8 @@
 Package.describe({
   name: 'd3k4y:autoform-files',
-  summary: 'File upload for AutoForm using ostrio:files',
-  description: 'File upload for AutoForm using ostrio:files',
-  version: '2.2.0',
+  summary: 'File upload for AutoForm using d3k4y:files',
+  description: 'File upload for AutoForm using d3k4y:files',
+  version: '2.2.1',
   git: 'https://github.com/d3k4y/meteor-autoform-file.git'
 });
 
